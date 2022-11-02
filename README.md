@@ -3,6 +3,15 @@
 
 A useful module for https://www.1secmail.com
 
+## Installation
+
+Install with pip 
+**(open cmd in the folder)**   
+
+```cmd
+  pip install .
+```
+    
 ## Demo
 
 ```
